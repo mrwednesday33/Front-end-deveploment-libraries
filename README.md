@@ -1,6 +1,3 @@
-Certainly! Here's a README template for the Front End Development Libraries Certification with the mentioned projects:
-
-```markdown
 # Front End Development Libraries
 
 FreeCodeCamp Front End Development Libraries Certification, showcasing skills in using front-end development libraries. Explore projects, each passing automated test suites. Demonstrates a commitment to building interactive and dynamic user interfaces.
@@ -28,4 +25,4 @@ FreeCodeCamp Front End Development Libraries Certification, showcasing skills in
 - **Link:** [25 + 5 Clock](https://codepen.io/mrwednesday33/pen/dydaQRj)
 
 ## Certification
-![Your Certification Photo](https://github.com/mrwednesday33/Front-end-deveploment-libraries/blob/main/certificate.png)
+![Your Certification Photo](certificate.png)
