@@ -28,4 +28,4 @@ FreeCodeCamp Front End Development Libraries Certification, showcasing skills in
 - **Link:** [25 + 5 Clock](https://codepen.io/mrwednesday33/pen/dydaQRj)
 
 ## Certification
-![Your Certification Photo](certificate.png)
+![Your Certification Photo](https://github.com/mrwednesday33/Front-end-deveploment-libraries/blob/main/certificate.png)
